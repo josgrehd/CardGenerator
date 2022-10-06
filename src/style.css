@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.contenedor {
+  margin-top: 200px;
+  width: 15%;
+  height: 50%;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.numeros {
+  text-align: center;
+  font-size: 100px;
+}
+
+.Palos {
+  font-size: 60px;
+}
+
+.izquierda {
+  text-align: right;
+}
